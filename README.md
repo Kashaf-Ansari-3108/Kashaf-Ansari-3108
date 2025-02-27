@@ -11,8 +11,7 @@
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kashaf-ansari-profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kashaf-Ansari-3108)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_kashaf_ansari)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kashaf-Ansari-3108)
 
 ---
 
@@ -20,7 +19,6 @@
 **Frontend:**  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  
 
 **Backend:**  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
@@ -32,8 +30,7 @@
 **Other Skills:**  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 ---
 
@@ -41,14 +38,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Kashaf-Ansari-3108&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kashaf-Ansari-3108&theme=dark&hide_border=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kashaf-Ansari-3108&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
-
----
-
-## 🚀 Featured Projects  
-🔹 **Drag & Build** – No-code mobile app builder (**FYP**) | **React.js, Next.js, Node.js**  
-🔹 **Aventus Toolbar** – Advanced text editor toolbar | **React.js, Lexical, Redux**  
-🔹 **Mechanify** – Vehicle repair service platform | **React Native, Firebase**  
-
 ---
 
 ## 🏆 GitHub Trophies  
